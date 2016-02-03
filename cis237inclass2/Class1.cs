@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace cis237inclass2
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            Factorial factorial = new Factorial();
-        }
     }
 }
